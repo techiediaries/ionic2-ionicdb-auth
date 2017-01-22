@@ -4,6 +4,11 @@
     cd ionic2-ionicdb-auth
     npm install
 
+    ionic io init
+    ionic serve
+
+Then go to http://localhost:8100 with your browser    
+
 ## The first part :working with Auth service
 
 This app shows you how to 
